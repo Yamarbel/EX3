@@ -1,0 +1,163 @@
+*{margin:0;padding:0;}
+
+*{
+    font-family: "arial";
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav a:hover{
+
+    zoom: 110%;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    background-color: #f6f9f9;
+    font-weight: bold;
+    font-size: 30px;
+}
+nav{
+    padding-top: 40px;
+}
+
+#logo{
+    width: 197px;
+    background: url(../images/logo2.png) no-repeat left center;
+    padding-top: 20px;
+    padding-left: 45px;
+    padding-right: 40px;
+    font-family: "arial";
+    color: #2d3950;
+}
+
+.menubtn{
+    font-family: "arial";
+    color: #264951;
+}
+
+#cover{
+    background-image: url(../images/cover.png);
+    height: 800px;
+    color: #ffffff;
+}
+
+#cover h1{
+    width: 600px;
+    padding-top: 237px;
+    font-size: 100px;
+    border-bottom: 3px solid #15a3f9;
+    letter-spacing: 3px;
+    margin: auto;
+}
+
+#cover h4{
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+.gitHub{
+    display: block;
+    width: 175px;
+    height: 55px;
+    margin-top: 65px;
+    line-height: 55px;
+    border: 1px solid #15a3f9;
+    border-radius: 2px;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+}
+
+
+.down{
+    display: block;
+    width: 25px;
+    margin-top: 180px;
+    font-family: "arial";
+    font-size: 35px;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info{
+    height: 340px;
+    background-color: #e5f1f1;
+}
+
+#info h2{
+    padding-top: 80px;
+    font-family: "arial";
+    font-size: 40px;
+    color: #2d3950;
+}
+
+#info p{
+    margin-top: 20px;
+    font-size: 20px;
+    color: #999999;
+}
+
+#skills{
+    background-color: #ffffff;
+}
+
+#skills h2{
+    margin-top: 80px;
+    font-family: "arial";
+    font-size: 40px;
+    color: #091c41;
+}
+
+.links{
+    margin-left: 350px;
+    font-size: 30px;
+    color: #3e4653;
+    text-align: left;
+}
+
+#skills ul{
+    list-style: none;
+    margin-top: 60px;
+}
+
+
+.Icons{
+    width: 100px;
+    height: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    vertical-align: middle;
+}
+
+footer{
+    height: 90px;
+    margin-top: 110px;
+    padding-left: 250px;
+    background-color: #f6f9f9;
+    text-align: left;
+}
+
+.liknicons{
+    width: 40px;
+    height: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 3px;
+    vertical-align: middle;
+}
+
+footer h6{
+    display: inline;
+    padding-left: 10px;
+    font-family: "arial";
+    font-size: 15px;
+    color: #999999;
+}
